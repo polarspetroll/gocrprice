@@ -3,11 +3,12 @@ Crypto currency price notifier via Telegram
 
 ### installation 
 
-`
+```
 git clone https://github.com/polarspetroll/gocrprice.git; cd gocrprice
 
 go build main.go
-`
+
+```
 
 - make sure to put your robot token and other required stuff at the beginning of the main.go file before build.
 
