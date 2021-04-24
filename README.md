@@ -1,5 +1,5 @@
 # gocrprice
-Crypto currency price notifier via Telegram
+crypto currency price notifier via Telegram
 
 ### installation 
 
@@ -10,11 +10,11 @@ go build main.go
 
 ```
 
-- make sure to put your robot token and other required stuff at the beginning of the main.go file before build.
+### environment variables 
 
-this repo is the second version of [crprice](https://github.com/polarspetroll/crprice)
-
-#### some of the benefits of gocrprice:
-- written in golang and much faster than the last version.
-- added telegram notification.
-- it can be used as a service on servers . 
+```
+TOKEN		#eg: 270485614:AAHfiqksKZ8WmR2zSjiQ7_v4TMAKdiHm9T0
+CHATID		#numbers only		
+COIN     	#lowercase symbol (eg: btc)
+CHECKTIME	#24h format
+```
