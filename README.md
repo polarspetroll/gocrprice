@@ -18,3 +18,6 @@ CHATID		#numbers only
 COIN     	#lowercase symbol (eg: btc)
 CHECKTIME	#24h format
 ```
+---
+
+### 🤖 [Telegram Bot](https://t.me/crprice_bot)
