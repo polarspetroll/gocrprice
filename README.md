@@ -14,7 +14,7 @@ go build main.go
 
 ```
 TOKEN		#eg: 270485614:AAHfiqksKZ8WmR2zSjiQ7_v4TMAKdiHm9T0
-CHATID		#numbers only		
+CHATID		
 COIN     	#lowercase symbol (eg: btc)
 CHECKTIME	#24h format
 ```
